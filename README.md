@@ -1,6 +1,6 @@
 # metalsmith-isolate
 
-A [Metalsmith](https://github.com/segmentio/metalsmith) that isolates files by a pattern. This allows you to apply other metalsmith plugins only to specific files.
+A [Metalsmith](https://github.com/segmentio/metalsmith) plugin that isolates files by a pattern. This allows you to apply other metalsmith plugins only to specific files.
 
   - can match files by pattern
 
