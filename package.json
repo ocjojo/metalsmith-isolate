@@ -1,0 +1,20 @@
+{
+  "name": "metalsmith-isolate",
+  "version": "0.0.1",
+  "description": "A Metalsmith plugin that isolates files by a pattern and thus allows application of plugins only to specific files.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ocjojo/metalsmith-isolate.git"
+  },
+  "author": "Lukas Ehnle <me@ehnle.fyi>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ocjojo/metalsmith-isolate/issues"
+  },
+  "homepage": "https://github.com/ocjojo/metalsmith-isolate#readme",
+  "dependencies": {
+    "multimatch": "^2.1.0"
+  }
+}
